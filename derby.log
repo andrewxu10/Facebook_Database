@@ -1,0 +1,11 @@
+----------------------------------------------------------------
+Wed Apr 20 22:14:10 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-0154-3698-9861-0000070420b8 
+on database directory /Users/Andrew/Documents/workspace/Facebook Database/FacebookDatabase  with class loader sun.misc.Launcher$AppClassLoader@3479404a 
+Loaded from file:/Users/Andrew/Documents/workspace/Facebook%20Database/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_67-b01
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 20 22:14:11 EDT 2016:
+Shutting down instance a816c00e-0154-3698-9861-0000070420b8 on database directory /Users/Andrew/Documents/workspace/Facebook Database/FacebookDatabase with class loader sun.misc.Launcher$AppClassLoader@3479404a 
